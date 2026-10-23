@@ -1,0 +1,12 @@
+# secrets - NEVER commit these
+.env
+*.env
+secrets.json
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# misc
+.ipynb_checkpoints/
+.DS_Store
